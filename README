@@ -1,0 +1,18 @@
+tf-idf
+=========
+\n
+This module returns the rank of each test document in a folder according to the tf-idf algorithm for a particular search term.\n
+\n
+\n
+Installation
+==============
+$ npm install tf-idf
+\n
+Usage
+======
+var tfidf = require('tf-idf');\n
+\n
+tfidf.getRank('path/to/directory', 'search-term', function (err, docRank) { });\n
+\n
+\n
+docRank = [{'file':, 'tfidf':}]
