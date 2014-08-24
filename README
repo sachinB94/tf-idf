@@ -12,7 +12,7 @@ Usage
 ======
 var tfidf = require('tf-idf');
 
-tfidf.getRank('path/to/directory', 'search-term', function (err, docRank) { });\n
+tfidf.getRank('path/to/directory', 'search-term', function (err, docRank) { });
 
 
 docRank = [{'file':, 'tfidf':}
