@@ -15,4 +15,4 @@ var tfidf = require('tf-idf');
 tfidf.getRank('path/to/directory', 'search-term', function (err, docRank) { });\n
 
 
-docRank = [{'file':, 'tfidf':}]
+docRank = [{'file':, 'tfidf':}
