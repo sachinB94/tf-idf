@@ -1,0 +1,27 @@
+{
+  "name": "tf-idf",
+  "version": "0.1.0",
+  "description": "A simple tf-idf implementation for text documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sachinb94/tf-idf.git"
+  },
+  "author": "Sachin Bansal <sachinbansal94@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "tf-idf",
+    "tfidf",
+    "tf",
+    "idf",
+    "page ranking",
+    "page rankings"
+  ],
+  "bugs": {
+    "url": "https://github.com/sachinb94/tf-idf/issues"
+  },
+  "homepage": "https://github.com/sachinb94/tf-idf"
+}
